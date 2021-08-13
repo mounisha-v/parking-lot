@@ -1,0 +1,19 @@
+{
+  "name": "parking_lot",
+  "version": "1.0.0",
+  "description": "Parking lot design problem",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "file-mode": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "mounisha <mounisha.vr@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "3.0.0"
+  }
+}
